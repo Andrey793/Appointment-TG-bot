@@ -1,7 +1,4 @@
 # Python-prjct-
-telegram bot which helps you to sign up in different places
-
-По вопросам писать  [@kokosov_kokosov](https://t.me/kokosov_kokosov)
 
 ### Функционал бота:
  1. Запись к определенному мастеру (требуется подгружать график работы)
